@@ -13,7 +13,9 @@ body {
     display: inline-block;
     background-color: white;
     margin-top: 6px;
+    margin-bottom: 0 px;
     margin-left: 55px;
+    margin-right: 0px;
     width: 75%;
     height: 550px;
   }
